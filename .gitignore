@@ -1,0 +1,23 @@
+Environment variables
+
+.env .env.* !.env.example
+
+Dependencies
+
+node_modules/ vendor/
+
+Build output
+
+dist/ build/
+
+Logs
+
+*.log
+
+IDE
+
+.idea/
+
+Operating system
+
+.DS_Store Thumbs.db

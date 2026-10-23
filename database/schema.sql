@@ -187,4 +187,4 @@ CREATE TABLE saved_jobs (
     INDEX idx_saved_jobs_job (job_id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
--- Da tao xong cac bang. Hay tao password_hash bang password_hash() trong PHP.
+
